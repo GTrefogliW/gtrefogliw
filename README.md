@@ -1,6 +1,6 @@
 Hello!
 
-My name is Guillermo Trefogli, I am an Master in Public Policy candidate at The University of Chicago. In this space, I want to share with you some samples of the work I have done using data analysis and programming skills.
+My name is Guillermo Trefogli, I am a Master in Public Policy candidate at The University of Chicago. In this space, I want to share with you some samples of the work I have done using data analysis and programming skills.
 
 [Project 1: Crimes, guns, and mental health in Chicago](https://github.com/datasci-harris/final-project-salgadoe/blob/main/README.md)
 
