@@ -8,6 +8,6 @@ I worked in this project with Earnest Salgado, my partner and classmate at the H
 
 Miscellaneous short projects can be found here:
 
-- [Employment, Industries, and States (2000 and 2017)](https://github.com/GTrefogliW/Employment-Industries-and-States-2000-and-2017-)
+- [Employment, Industries, and States in the U.S.(2000 and 2017)](https://github.com/GTrefogliW/Employment-Industries-and-States-2000-and-2017-)
 - [Performance of schools in Chicago](https://github.com/GTrefogliW/Schools-performance-in-Chicago)
 - [UN Refugee Brief](https://github.com/GTrefogliW/Sentiment---UN-Refugee-Newsletter)
