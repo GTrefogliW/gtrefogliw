@@ -10,3 +10,4 @@ Miscellaneous short projects can be found here:
 
 - [Employment, Industries, and States (2000 and 2017)](https://github.com/GTrefogliW/Employment-Industries-and-States-2000-and-2017-)
 - [Performance of schools in Chicago](https://github.com/GTrefogliW/Schools-performance-in-Chicago)
+- [Sentiment - UN Refugee Brief](https://github.com/GTrefogliW/Sentiment---UN-Refugee-Newsletter)
